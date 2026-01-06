@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Admission Applicant</title>
+    <title>Admissions Committee</title>
 </head>
 <body>
 
